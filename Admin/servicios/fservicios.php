@@ -332,14 +332,14 @@ $tabla = include('tabla_imagenes.php');
                                 <div class="wizard-step-5 text-center">
                                     <h2>
                                         <?php
-                                        $st="Agregada";
+                                        $st="Agregado";
                                         if (isset($_REQUEST['id'])) {
                                             $id = $_REQUEST['id'];
-                                            $st = 'Modificada';
+                                            $st = 'Modificado';
                                         }
 
 
-                                        echo 'Propiedad '.$st;
+                                        echo 'Servicio '.$st;
 
                                         ?>
                                     </h2>
