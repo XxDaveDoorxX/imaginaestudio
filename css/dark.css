@@ -1,0 +1,152 @@
+/*------------------------------------------------------------------
+
+COLOR:	DARK VERSION CSS;
+
+-------------------------------------------------------------------*/
+.overlay {
+	background: rgba(0,0,0,0.75);
+}
+#intro, #portfolio, #testimonials, #about, #services, #team, .contact-form {
+	background: #272727;
+}
+h2 {
+	color: #fff;
+}
+h5 {
+	color: #d0d0d0;
+}
+.tittle p {
+	color: #fff;
+}
+p {
+	color: #f1f1f1;
+}
+hr {
+	border: 1px solid #5d5d5d;
+	background: none;
+	border-left: none;
+	border-right: none;
+}
+#intro ul li i {
+	color: #fff;
+}
+#intro ul li {
+	border-color: #363636;
+}
+#intro ul p {
+	color: #fff;
+}
+#intro ul li:hover {
+	background: #434343;
+}
+header, .is-sticky header {
+	background: #161616;
+	border-bottom: 1px solid #000;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #fff;
+}
+.filter li a {
+ color:
+}
+.filter li a.active {
+	background: #fff;
+	color: #161616;
+}
+.filter li a:hover {
+	color: #161616;
+	background: #fff;
+}
+.over {
+	background: rgba(255, 255, 255, 0.8);
+}
+.portfolio .item h5, .portfolio .item p {
+	color: #161616;
+}
+.over a.expand:hover {
+	color: #161616;
+}
+.expand {
+	color: #000;
+}
+#testimonials p {
+	color: #d1d1d1;
+}
+#testimonials h5 {
+	color: #d1d1d1;
+}
+.flex-direction-nav a {
+	color: rgba(255,255,255,0.8);
+}
+#video a {
+	background: #fff;
+	color: #434343;
+}
+#about .services li .icon i {
+	color: #fff;
+}
+#about .services li:hover i {
+	background: #434343;
+}
+.mission .tittle h2 {
+	color: #000;
+}
+.mission .tittle hr, #feature .tittle hr {
+	background: none;
+	border-color: #000;
+}
+#services .services li .icon i {
+	color: #fff;
+}
+#services .services li:hover i {
+	background: #434343;
+}
+#services .facts li:hover, .contact-form .btn:hover, #back-to-top {
+	background: #434343;
+}
+.skills span {
+	color: #fff;
+}
+#services .facts li i {
+	color: #fff;
+}
+.owl-controls .owl-page, .owl-controls .owl-buttons div {
+	background: #434343;
+}
+#team .btm-detail {
+	background: #434343;
+}
+.progress {
+	background: #272727;
+	border-color: #434343;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #fff;
+}
+.progress-bar {
+	background: #fff;
+}
+#contact .con-info li {
+	color: #fff;
+}
+.ser-who i {
+	background: none !important;
+	color: #fff;
+}
+.ser-who .back-icon {
+	color: #3e3e3e;
+}
+.ser-who:hover i:nth-child(2) {
+	color: #272727;
+}
+.skills li:hover {
+	background: none !important;
+}
+.form-control {
+	background-color: rgba(255,255,255,0.2);
+	color: #fff;
+	border-color: #000;
+}
+.contact-form .btn {
+	opacity: 0.6;
+}

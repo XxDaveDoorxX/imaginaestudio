@@ -1,0 +1,76 @@
+/*------------------------------------------------------------------
+
+COLOR:	SKY BLUE	#00cdcd
+
+-------------------------------------------------------------------*/
+.overlay{
+	background: rgba(0,205,205,0.75);
+}
+#intro ul li:hover, .filter li a.active, .filter li a:hover, #video a, #about .services li:hover i, #services .services li:hover i, #services .facts li:hover, .owl-controls .owl-page, .owl-controls .owl-buttons div, #team .btm-detail, .progress-bar, #back-to-top, .contact-form .btn:hover, .slides-navigation a{
+	background:#00cdcd;
+}
+#home .btn{
+	border-color:#00cdcd;
+}
+#home .btn:hover{
+	background:#00cdcd;
+	color:#fff;
+}
+.btn{
+	background:#fff;
+	color:#fff;
+	border-color:#00cdcd;
+}
+.item-detail .btn:hover{
+	background:#00cdcd;
+}
+.item-info .btn{
+	color:#00cdcd;
+}
+.mouse .wheel:after{
+	background:#fff;
+}
+.ip-header{
+		background:#00cdcd;
+}
+.btn:hover{
+	background:#00cdcd;
+	color:#fff;
+	border-color:#fff;
+}
+.modal-header .close{
+	background:#00cdcd;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+	color:#00cdcd;
+}
+.passion .btn{
+	border-color:#fff;
+	color:#fff;
+}
+.passion .btn:hover{
+	background:#00cdcd;
+	color:#fff;
+	border-color:#fff;
+}
+.mouse{
+	background:#00cdcd;
+}
+.intro-sec ul li:hover i{
+	color:#fff !important;
+}
+#intro ul li i, .expand, #about .services li .icon i, #services .services li .icon i, #services .facts li i {
+	color:#00cdcd;
+}
+#about .services li:hover i, #services .services li:hover .icon i, #contact .con-info li{
+	color:#fff;
+}
+.ser-who i{
+	color: #00cdcd;
+}
+.ser-who:hover i{
+	background: #00cdcd;
+}
+.skills li:hover{
+	background: none !important;
+}

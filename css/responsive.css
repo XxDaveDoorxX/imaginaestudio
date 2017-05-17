@@ -1,0 +1,305 @@
+/*======================================
+			RESPONSIVE CSS
+=======================================*/
+/* Large */
+@media(max-width:1024px) {
+#intro .intro-sec h5 {
+	margin: 0px;
+	font-size: 14px;
+}
+.flex-direction-nav {
+	margin-top: 15%;
+}
+.flex-control-thumbs li {
+	width: 120px;
+}
+}
+@media (max-width: 600px) {
+.flex-control-thumbs li {
+	width: 80px !important;
+}
+#testimonials .flexslider .slides {
+	margin-top: 180px;
+}
+.comas {
+	display: none;
+}
+#slides .text h1 {
+	font-size: 50px !important;
+}
+}
+@media(max-width:540px) {
+.contact-form form {
+	width: 100%;
+	padding: 0px;
+}
+.over a.expand {
+}
+.flex-control-thumbs li {
+	width: 70px !important;
+}
+.flex-direction-nav {
+	top: 20%;
+}
+#team .owl-prev {
+	left: 10px;
+}
+#team .owl-next {
+	right: 10px;
+}
+.go-down {
+	bottom: 20px;
+}
+header nav {
+	background: #fff;
+}
+header nav li {
+	width: 100%;
+	margin: 0px;
+	padding: 2px 0;
+}
+#home .btn {
+	padding: 10px 20px;
+}
+.modal-body .owl-img {
+	height: 200px !important;
+}
+#clients .owl-next{
+	right:0px;
+}
+#clients .owl-prev{
+	left:0px;
+}
+#team .team{
+	padding:0px;
+}
+#team .owl-prev{
+	left:0px;
+}
+#team .owl-next{
+	right:0px;
+}
+.color-switcher{
+	display:none;
+}
+#loader{
+	display:none !important;
+}
+}
+@media(max-width:400px) {
+.filter li a {
+	padding: 7px 19px !important;
+}
+.portfolio .item {
+	width: 100% !important;
+}
+.flex-control-thumbs li {
+	width: 50px !important;
+}
+#slides .text h1 {
+	font-size: 50px !important;
+}
+}
+@media(max-width:320px) {
+.portfolio .item {
+	width: 100% !important;
+}
+#slides .text h1 {
+	font-size: 30px !important;
+}
+.filter li a {
+	padding: 7px 10px !important;
+}
+.go-down {
+	bottom: 50px;
+}
+#home .btn {
+	padding: 10px 20px;
+}
+.flex-control-thumbs li {
+	width: 50px !important;
+}
+
+.custom-logo{
+  padding: 0px;
+}
+.custom-logo {
+  width: 205px;
+  max-width: 100%
+}
+
+}
+/* Extra Small */
+@media(max-width:980px) {
+}
+
+
+
+/* Small */
+@media(min-width:768px) and (max-width:991px) {
+.item-info {
+	margin-top: 50px;
+	text-align: center;
+}
+.item-info span {
+	text-align: left;
+}
+.portfolio .item {
+	width: 50%;
+}
+.flex-control-thumbs li {
+	width: 110px;
+}
+#testimonials .flexslider .slides {
+	margin-top: 240px;
+}
+.comas {
+	margin-top: 185px;
+}
+.flexslider:hover .flex-prev {
+	left: 0px;
+}
+.flex-direction-nav {
+	margin-top: 14%;
+}
+.mission img {
+	margin-top: 130px;
+}
+#about .services li {
+	margin: 10px 0;
+}
+#team .social_icons a {
+	width: 28px;
+}
+#team .owl-prev {
+	left: 10px;
+}
+#team .owl-next {
+	right: 10px;
+}
+#testimonials .flexslider {
+	width: 100%;
+}
+.modal-dialog{
+	width:100%;
+}
+#team .owl-prev {
+	left: 10px !important;
+}
+#team .owl-next {
+	right: 10px !important;
+}
+
+header .navbar-default .navbar-nav > li > a {
+    padding: 21px 5px;
+    color: #FFF;
+    margin: 0;
+    margin-top: 0px;
+    padding-bottom: 23px;
+    font-size: 11px;
+}
+
+.info_diseno ul li , .info-web ul li, .info-marketing ul li{
+   list-style: disc;
+   font-size: 12px;
+   
+}
+
+.info_diseno, .info-web, .info-marketing{
+   margin-left: 25px !important;
+}
+
+
+
+}
+
+/* Medium */
+@media(min-width:992px) and (max-width:1199px) {
+.over a.expand {
+}
+ header .navbar-default .navbar-nav > li > a {
+    padding: 22px 15px;
+    color: #FFF;
+    margin: 0;
+    margin-top: 0px;
+    padding-bottom: 23px;
+    font-size: 12px;
+}
+ 
+ 
+}
+
+@media(max-width:767px) {
+header nav {
+	width: 100%;
+	background: #000;
+}
+header nav li {
+	width: 100% !important;
+}
+.nav > li {
+	width: 100%;
+}
+header nav {
+	float: left !important;
+	width: 100%;
+}
+header .navbar-default .navbar-nav > li > a {
+	padding: 10px 20px;
+	margin: 0px;
+}
+.is-sticky header {
+	position: relative !important;
+}
+.item-info {
+	text-align: center;
+	margin-top: 50px;
+}
+.portfolio .item {
+	width: 50%;
+}
+.flexslider:hover .flex-prev {
+	left: 0px;
+}
+.flex-control-thumbs li {
+	width: 110px;
+}
+#testimonials .flexslider {
+	width: 100%;
+}
+.go-down {
+	display: none;
+}
+header .navbar-default .navbar-nav > li > a {
+	width: 100%;
+}
+.animated {
+  -webkit-animation-duration: 0s;
+  animation-duration: 0s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+
+#clients .clients li {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#clients .clients {
+    text-align: left;
+    margin-left: 15px;
+}
+
+
+}
+
+
+/* Large */
+@media(min-width:1200px) {
+}

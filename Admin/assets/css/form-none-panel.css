@@ -1,0 +1,5 @@
+.panel .panel-heading,
+.panel .panel-footer,
+.panel .panel-body {
+  width: 100%;
+}

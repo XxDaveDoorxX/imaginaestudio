@@ -1,0 +1,230 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+img { 
+	border:0px;
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	background-attachment: fixed;
+	background-image: url(../images/bg_wallpaper_final.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin: 0px;
+	padding: 0px;
+	background-color: #082d5f;
+}
+#wrapper #navegacion #col_izq {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	height: auto;
+	width: 95%;
+	color: #FFFFFF;
+	padding-left: 5px;
+	padding-top: 0px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -999;
+}
+#wrapper #navegacion #col_izq table tr td {
+	text-align: center;
+	padding: 5px;
+}
+#wrapper #navegacion #col_izq img {
+	margin: 0px;
+	border: none;
+	padding-top: 9px;
+	padding-: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#wrapper #navegacion #col_izq a {
+	color: #FFFFFF;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+
+/**#ventana {
+	margin: 0px;
+	padding: 0px;
+	width: 945px;
+	position:absolute;
+	top:100px; 
+	left:100px;
+} **/
+
+
+#w_top {
+	background-image: url(../images/w_top_titulo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 23px;
+	width: 945px;
+}
+.btn_cerrar {
+	padding-right: 15px;
+}
+.btn_minimizar {
+	padding-right: 2px;
+}
+
+.btn_show_info {
+	padding-right: 2px;
+}
+
+
+#ventanita table{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	width: 945px;
+}
+
+
+#ventanita tr td {
+	border:none;
+	border-width: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#menu_ventana {
+	background-image: url(../images/w_top_menu_izquierdo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 23px;
+	width: 945px;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+#menu_ventana li {
+	display: inline;
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	padding-left: 12px;
+}
+#menu_ventana li a {
+	color: #666666;
+	text-decoration: none;
+}
+#w_navegador {
+	background-image: url(../images/w_barra_direccion_posicionamiento.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 27px;
+	width: 945px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	line-height: 20px;
+	font-weight: bold;
+}
+#info_ventanita_izq_01 {
+	background-image: url(../images/w_lat_izq_01.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 212px;
+	text-align: center;
+	height: 394px;
+	font-size: 11px;
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: top;
+}
+#ventana_bottom_fin {
+	text-align: center;
+	height: 41px;
+	width: 945px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	line-height: 200%;
+	font-weight: bold;
+}
+
+#col_der_fondo {
+	background-image: url(../images/w_lat_der_ventana2.png);
+	background-repeat: repeat-y;
+	background-position:  top;
+	width: 28px;
+}
+#info_ventanita_contenido {
+	height: auto;
+	width: 705px;
+	background-color: #FFFFFF;
+	text-align: justify;
+	vertical-align: top;
+}
+#ventanita_tabla_contenido_padding {
+	width: 705 px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin: 5px;
+	height: auto;
+}
+
+#separador {
+	width: 230px;
+	height: 1px;
+}
+#ventanita_tabla_contenido_padding #tabla_iconos {
+	width: 695px;
+	text-align: center;
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	clear: both;
+}
+.td_150px {
+	width: 150px;
+	vertical-align: top;
+}
+.txt_small {
+	font-size: 10px;
+	font-weight: bold;
+}
+#info_ventanita_contenido #ventanita_tabla_contenido_padding #tabla_contacto {
+	width: 495px;
+	background-image: url(../images/fondo_notepad.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 350px;
+}
+#wrapper  #menu_bottom_flash {
+	width: 700px;
+	bottom: 0px;
+	text-align: center;
+	height: 150px;
+	z-index: 0;
+	position: absolute;
+	left: 25%;
+	padding: 0px;
+	vertical-align: bottom;
+	overflow: hidden;
+}
+.td_left_menu_01 {
+	text-align: center;
+	padding: 2px;
+	width: 80px;
+}

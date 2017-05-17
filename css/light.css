@@ -1,0 +1,115 @@
+/*------------------------------------------------------------------
+
+COLOR:	LIGHT VERSION CSS
+
+-------------------------------------------------------------------*/
+.overlay {
+	background: rgba(255,255,255,0.75);
+}
+#intro ul li i, .expand, #about .services li .icon i, #services .services li .icon i, #services .facts li i {
+	color: #272727;
+}
+#about .services li:hover i, #services .services li:hover .icon i, #contact .con-info li {
+	color: #fff;
+}
+h1, #home .text h5, #home span {
+	color: #333;
+}
+#home .btn, .go-down {
+	border-color: #333;
+	color: #333;
+}
+#home .text h2 {
+	color: #333;
+}
+#home .btn:hover, .go-down:hover {
+	background: #333;
+	color: #fff;
+}
+#feature .tittle h2 {
+	color: #333;
+}
+.item-info h3 {
+	color: #333;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #333;
+}
+header .navbar-default .navbar-nav > li > a {
+	color: #999;
+}
+p, .item-info p, .item-info span, .item-info li {
+	color: #272727 !important;
+}
+.btn {
+	background: #333;
+}
+.btn:hover {
+	background: #000;
+}
+.filter li a.active, .filter li a:hover {
+	background: #333;
+}
+.over a.expand {
+	color: #CCC !important;
+}
+.portfolio .item p {
+	color: #fff !important;
+}
+#video a {
+	background: #FFF;
+	color: #333;
+}
+#about .services li:hover i {
+	background: #272727;
+}
+.passion h1, .passion h2 {
+	color: #272727;
+}
+.passion .btn {
+	border-color: #333;
+	color: #333;
+}
+.passion .btn:hover {
+	background: #272727;
+	color: #fff;
+}
+#services .services li:hover i {
+	background: #272727;
+}
+#services .facts li:hover {
+	background: #272727;
+}
+#services .facts li:hover p {
+	color: #fff !important;
+}
+.owl-controls .owl-page, .owl-controls .owl-buttons div {
+	background: #272727;
+}
+#team .btm-detail {
+	background: #272727;
+}
+.progress-bar {
+	background: #272727;
+}
+#contact .con-info li {
+	color: #272727;
+}
+h4, h3 {
+	color: #5d5d5d;
+}
+#back-to-top {
+	background: #272727;
+}
+.contact-form .btn:hover {
+	background: #272727;
+}
+.rights p {
+	color: #fff !important;
+}
+#intro ul li:hover {
+	background: #272727;
+}
+#intro ul li:hover p {
+	color: #fff !important;
+}
