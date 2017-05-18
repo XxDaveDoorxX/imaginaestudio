@@ -21,7 +21,7 @@ if (isset($_POST['btnServid'])) {
 
         $pedido = array($servicios->titulo, $servicios->precio, $idxOrd);
 
-        $_SESSION['ordenes'][] = array($servicios->precio, $idxOrd, $servicios->titulo, 4);
+        $_SESSION['ordenes'][] = array($servicios->precio, $idxOrd, $servicios->titulo, $id);
         $total = 0;
         foreach ($_SESSION['ordenes'] as $e) {
             $total += $e[0];
